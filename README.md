@@ -15,4 +15,4 @@ This project introduces an innovative technology that leverages flex sensors and
 - Zero PCB: Provides a compact platform for component connections.
 - Power Supply: Ensures stable operation of the ESP32 and flex sensors.
 ## Circuit Diagram
-
+![image alt](https://github.com/Shakiththiyanofficial/Sign2Speech-Converting-Sign-Language-into-Voice/blob/c693db4ba9dd0056ecaf68cd163d84a4637618a7/circuit_image.png)
