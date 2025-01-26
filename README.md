@@ -14,6 +14,10 @@ This project introduces an innovative technology that leverages flex sensors and
 - Flex Sensors: Detect bending angles of fingers to interpret hand gestures.
 - Zero PCB: Provides a compact platform for component connections.
 - Power Supply: Ensures stable operation of the ESP32 and flex sensors.
+## Software Tools
+- C Code (for programming ESP32)
+- A mobile app development platform (Thunkable)
+- Google Text-to-Speech API 
 ## Circuit Diagram
 ![image alt](https://github.com/Shakiththiyanofficial/Sign2Speech-Converting-Sign-Language-into-Voice/blob/c693db4ba9dd0056ecaf68cd163d84a4637618a7/circuit_image.png)
 ## Project Team
