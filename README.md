@@ -8,16 +8,20 @@ This project introduces an innovative technology that leverages flex sensors and
 - Speech Output: Text mapped to gestures is converted into audible speech using Google Text-to-Speech API.
 - Customizable Commands: Users can personalize the text associated with gestures via a mobile app.
 - Wireless Connectivity: The ESP32 communicates with the user interface over Wi-Fi, ensuring seamless operation.
-- Audio Playback: Speech is played on a mobile device and can also be transmitted to a Bluetooth speaker.
+- Audio Playback: Speech is played on a mobile device.
+- Cloud Synchronization: Stores sign input data in the cloud for monitoring and analysis.  
+- Compact & Portable: Battery-powered system for on-the-go communication.  
 ## Hardware Components
 - ESP32 development board: Acts as the core processing unit with built-in Wi-Fi and Bluetooth capabilities, managing gesture data and communication.
 - Flex Sensors: Detect bending angles of fingers to interpret hand gestures.
 - Zero PCB: Provides a compact platform for component connections.
-- Power Supply: Ensures stable operation of the ESP32 and flex sensors.
+- Battery & Charge Module: Ensures portability and continuous operation.
+  
 ## Software Tools
 - C Code (for programming ESP32)
-- A mobile app development platform (Thunkable)
-- Google Text-to-Speech API 
+- A mobile app development platform (Flutter)
+- Google Cloud TTS
+- Firebase
 ## Circuit Diagram
 ![image alt](https://github.com/Shakiththiyanofficial/Sign2Speech-Converting-Sign-Language-into-Voice/blob/c693db4ba9dd0056ecaf68cd163d84a4637618a7/circuit_image.png)
 ## Project Team
