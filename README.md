@@ -10,7 +10,7 @@ This project introduces an innovative technology that leverages flex sensors and
 ## Features
 - Gesture Recognition: Flex sensors detect finger movements and bending for specific hand gestures.
 - Speech Output: Text mapped to gestures is converted into audible speech using Google Text-to-Speech API.
-- Customizable Commands: Users can personalize the text associated with gestures via a mobile app.
+- Customizable Commands: Users can personalize the text associated with gestures via a web/mobile app.
 - Wireless Connectivity: The ESP32 communicates with the user interface over Wi-Fi, ensuring seamless operation.
 - Audio Playback: Speech is played on a mobile device.
 - Cloud Synchronization: Stores sign input data in the cloud for monitoring and analysis.  
@@ -32,4 +32,4 @@ This project introduces an innovative technology that leverages flex sensors and
 - Ajithkumar G. - 2021E039
 - Vipulan K. - 2021E071
 - Verroshan R. - 2021E133
-- Shakiththiyan - 2021E191
+- Shakiththiyan T. - 2021E191
