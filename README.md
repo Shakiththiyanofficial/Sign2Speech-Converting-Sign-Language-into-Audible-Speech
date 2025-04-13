@@ -1,4 +1,4 @@
-# Sign2Speech: Converting Sign Language into Audible Speech
+# SigntoSpeech: Converting Sign Language into Audible Speech
 
 ![Logo](https://github.com/Shakiththiyanofficial/Sign2Speech-Converting-Sign-Language-into-Audible-Speech/blob/main/Images/logo.png)
 
