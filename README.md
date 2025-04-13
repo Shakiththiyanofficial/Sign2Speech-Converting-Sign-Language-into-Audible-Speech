@@ -1,4 +1,5 @@
 # Sign2Speech: Converting Sign Language into Audible Speech
+
 ![Logo](images/logo.png)
 
 ## Overview
