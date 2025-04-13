@@ -5,7 +5,8 @@
 ![Logo](images/log.png)
 >>>>>>> 7983276 (docs: add log to readme)
 ## Overview
-This project introduces an innovative technology that leverages flex sensors and the ESP32 microcontroller to convert sign language gestures into audible speech. The system records hand motions through flex sensors, identifying finger movements and bending, and then processes the data to produce corresponding vocal outputs.
+This project introduces an innovative technology that leverages flex sensors and the ESP32 microcontroller to convert sign language gestures into audible speech. The system records hand motions through flex sensors, identifying finger movements and bending, and then processes the data to produce corresponding vocal outputs.git pull origin main --rebase
+
 
 **Purpose:** Speech-impaired individuals often face challenges communicating when no one around understands sign language, especially in emergencies or when trying to reach someone far away. This system provides a voice for them, enabling better communication and the ability to call for help or convey their needs over a distance.
 ## Features
