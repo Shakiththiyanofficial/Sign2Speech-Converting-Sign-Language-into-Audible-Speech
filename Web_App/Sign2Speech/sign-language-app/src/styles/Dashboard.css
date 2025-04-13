@@ -1,0 +1,47 @@
+/* Dashboard.css */
+
+/* Logo and Tagline Section */
+.logo-container {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-bottom: 2rem;
+  }
+  
+  .logo-image {
+    max-width: 200px;
+    margin-bottom: 1rem;
+  }
+  
+  .tagline {
+    text-align: center;
+    font-style: italic;
+    max-width: 300px;
+  }
+  
+  /* Waveform Animation */
+  .waveform {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 3px;
+    height: 40px;
+    margin-top: 1rem;
+  }
+  
+  .wave-bar {
+    width: 4px;
+    border-radius: 2px;
+    animation: wave-pulse 1.5s infinite ease-in-out;
+  }
+  
+  /* Optional pulse animation for waveform bars */
+  @keyframes wave-pulse {
+    0%, 100% {
+      height: 10px;
+    }
+    50% {
+      height: 30px;
+    }
+  }
+  
