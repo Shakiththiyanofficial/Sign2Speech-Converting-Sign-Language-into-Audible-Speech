@@ -1,9 +1,6 @@
 # Sign2Speech: Converting Sign Language into Audible Speech
-<<<<<<< HEAD
+![Logo](logo.png)
 
-=======
-![Logo](images/log.png)
->>>>>>> 7983276 (docs: add log to readme)
 ## Overview
 This project introduces an innovative technology that leverages flex sensors and the ESP32 microcontroller to convert sign language gestures into audible speech. The system records hand motions through flex sensors, identifying finger movements and bending, and then processes the data to produce corresponding vocal outputs.git pull origin main --rebase
 
